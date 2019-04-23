@@ -1,0 +1,82 @@
+.container{
+    max-width: 390px;
+}
+
+.header_zndx{
+    background: #aad500;
+    min-height: 45px;
+
+}
+
+.body_zndx{
+    background: #f0f0f0;
+    min-height: 370px;
+}
+
+.footer_zndx{
+    background: #aad500;
+    min-height: 10px; 
+}
+
+/* Titulo zendesk */
+.titulo_zndx a{
+    color: rgb(255, 255, 253);
+    font-weight: bold;
+    font-size: 16px;
+
+    text-decoration: none;
+}
+
+/* alineación */
+.padre{
+    text-align: start;
+}
+/* .padre h2{
+    text-align: center;
+}
+.padre button{
+    text-align: end;
+} */
+
+.submit_zendex{
+    color: #fffffe;
+}
+
+
+/* Boton de adjuntar archivo */
+.btn-adjuntar{
+
+    background: rgba(211, 211, 211, 0.301);
+    border-style: dashed;
+    border-color: lightgray;
+  
+    color: #777777;
+
+    border-radius: 10px;
+
+    /* font-weight: 500; */
+    padding: 20px;
+    font-size: 14px ;
+}
+
+.btn-adjuntar:hover{
+    background: rgba(87, 86, 85, 0.3);
+    border-style: dashed;
+    border-color: rgba(73, 73, 73, 0.4);
+    border-width: 3px;
+}
+
+.texto_zndx{
+    font-size: 14px;
+}
+
+div label{
+    font-size: 14px;
+}
+
+#texto_zndx{
+    font-size: 14px;
+    background: #fffffe
+}
+
+
